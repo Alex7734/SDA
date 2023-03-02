@@ -1,0 +1,8 @@
+#include "node.h"
+#ifndef LAB2_REVERSE_H
+#define LAB2_REVERSE_H
+
+// returns the head of the reversed Linked List
+Node* reverseLinkedList(Node* head);
+
+#endif //LAB2_REVERSE_H
