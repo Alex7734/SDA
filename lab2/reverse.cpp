@@ -1,5 +1,4 @@
 #include "reverse.h"
-#include "node.h"
 
 Node* reverseLinkedList(Node* head) {
     Node* prev = nullptr;
