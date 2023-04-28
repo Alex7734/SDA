@@ -66,9 +66,9 @@ void dfs_scc(int node, struct Graph *g, int *visited, int *scc) {
 }
 
 void kosaraju(struct Graph *graf) {
-    int visited[MAX_NODES] = {0};
-    int stack[MAX_NODES];
-    int scc[MAX_NODES] = {0};
+    int *visited = calloc(MAX_NODES, sizeof (int));
+    int *stack = malloc(sizeof (MAX_NODES)*sizeof (int));
+    int *scc = calloc(MAX_NODES, sizeof (int));
     int scc_count = 0;
     int stack_top = -1;
 
