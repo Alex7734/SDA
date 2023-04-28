@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1682034957 source:c:\users\alex\desktop\utcn\sda\lab8\queue\queue.c
+	"queue.h"
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1681797107 c:\users\alex\desktop\utcn\sda\lab8\queue\queue.h
+
+1681797988 source:c:\users\alex\desktop\utcn\sda\lab8\single_linked_list\single_linked_list.c
+	"single_linked_list.h"
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<limits.h>
+
+1681798025 c:\users\alex\desktop\utcn\sda\lab8\single_linked_list\single_linked_list.h
+	<stdbool.h>
+
+1682113676 source:c:\users\alex\desktop\utcn\sda\lab8\main.c
+	<stdio.h>
+	<malloc.h>
+
+1681799109 c:\users\alex\desktop\utcn\sda\lab8\graf\graf.h
+	"../queue/queue.h"
+	"../single_linked_list/single_linked_list.h"
+
+1681800176 source:c:\users\alex\desktop\utcn\sda\lab8\graf\graf.c
+	"graf.h"
+	"stdlib.h"
+	"string.h"
+	"../single_linked_list/single_linked_list.h"
+	"../queue/queue.h"
+
