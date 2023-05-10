@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1683611479 source:c:\users\alex\desktop\utcn\sda\greedy-lab11\descompunere.c
+	<stdlib.h>
+	<stdio.h>
+
+1683613558 source:c:\users\alex\desktop\utcn\sda\greedy-lab11\main.c
+	<stdlib.h>
+	<stdio.h>
+
+1683614762 source:c:\users\alex\desktop\utcn\sda\greedy-lab11\planificare.c
+	<stdlib.h>
+	<stdio.h>
+
